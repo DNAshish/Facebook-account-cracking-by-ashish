@@ -43,3 +43,4 @@ Credit goes to the Creator
 # I will Not be responsible for anything wromg you did.
 Tested on Windows 7, Kali Linux, Debian 7 (Wheezy).
 
+Credit goes to the author
