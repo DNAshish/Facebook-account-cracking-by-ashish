@@ -1,3 +1,5 @@
+# Sujal Dont do Wrong Works.
+
 FBHT
 ====
 
@@ -36,5 +38,8 @@ Thanks to @alepernin for the path handling in linux version.
 
 Set variable path handling according to OS; should work on either Windows, Mac or Linux systems.
 
+Credit goes to the Creator
+
+# I will Not be responsible for anything wromg you did.
 Tested on Windows 7, Kali Linux, Debian 7 (Wheezy).
 
